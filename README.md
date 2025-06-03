@@ -2,7 +2,7 @@ Privacy Policy
 
 Effective Date: 28/05/2025
 
-This Privacy Policy explains how our Chrome Extension GUDS handles user data.
+This Privacy Policy explains how our Chrome Extension handles user data.
 
 Information Collection
 
