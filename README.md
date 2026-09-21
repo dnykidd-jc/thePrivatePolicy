@@ -14,7 +14,7 @@ To provide these features, the extension reads and modifies content on the desig
 
 ## Usage telemetry
 
-The extension sends limited feature-usage telemetry to a Sony Interactive Entertainment-operated logging service. The telemetry contains:
+The extension sends limited feature-usage telemetry to a CertOp operated logging service. The telemetry contains:
 
 - the name of the extension feature or interaction;
 - for template-related events, the identifier of the extension-provided template;
@@ -30,9 +30,9 @@ Telemetry is used only to measure feature adoption, maintain and improve the ext
 
 ## Storage, retention, and access
 
-Telemetry is stored on systems operated by or on behalf of Sony Interactive Entertainment. It is retained only for as long as reasonably necessary for the operational and improvement purposes described above, in accordance with applicable Sony Interactive Entertainment retention and security requirements.
+Telemetry is stored on systems operated by or on behalf of CertOps. It is retained only for as long as reasonably necessary for the operational and improvement purposes described above, in accordance with applicable CertOps retention and security requirements.
 
-Access is restricted to authorised personnel who require it to operate, maintain, secure, or improve the extension and its logging service. Telemetry is not shared with advertisers or data brokers. It may be disclosed to service providers acting on behalf of Sony Interactive Entertainment, or where disclosure is required by law.
+Access is restricted to authorised personnel who require it to operate, maintain, secure, or improve the extension and its logging service. Telemetry is not shared with advertisers or data brokers. It may be disclosed to service providers acting on behalf of CertOps, or where disclosure is required by law.
 
 ## Security
 
