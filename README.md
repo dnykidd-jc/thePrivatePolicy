@@ -1,6 +1,6 @@
 Privacy Policy
 
-Effective date: 21 September 2026**
+## Effective date: 21 September 2026
 
 This Privacy Policy explains how the CertOps Unity Enhancements browser extension accesses and handles information.
 
