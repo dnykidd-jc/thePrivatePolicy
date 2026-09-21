@@ -1,33 +1,55 @@
 Privacy Policy
 
-Effective Date: 28/05/2025
+Effective date: 21 September 2026**
 
-This Privacy Policy explains how our Chrome Extension handles user data.
+This Privacy Policy explains how the CertOps Unity Enhancements browser extension accesses and handles information.
 
-Information Collection
+## Extension purpose
 
-The Extension does not collect, transmit, store, or share any personal information or user data.
+CertOps Unity Enhancements provides workflow improvements on designated Unity pages, including navigation links, form-filling assistance, templates, checklist controls, and related productivity features.
 
-Data Usage
+## Information processed locally
 
-No user data is processed or used in any manner.
+To provide these features, the extension reads and modifies content on the designated Unity pages listed in its browser permissions. This can include page text, URLs, product identifiers, form elements, and user selections. This processing occurs locally in the browser except for the limited usage telemetry described below.
 
-Data Sharing
+## Usage telemetry
 
-Since the Extension does not collect personal data, no information is shared with third parties.
+The extension sends limited feature-usage telemetry to a Sony Interactive Entertainment-operated logging service. The telemetry contains:
 
-Security
+- the name of the extension feature or interaction;
+- for template-related events, the identifier of the extension-provided template;
+- the installed extension version;
+- the date and time of the interaction; and
+- technical network information ordinarily received by the logging service, such as an IP address.
 
-While no user data is collected, we remain committed to protecting the integrity and functionality of the Extension.
+The telemetry payload does not include complete page URLs, Unity product identifiers, cancellation-reason text, subsection headings, form contents, free-text entries, names, email addresses, account credentials, or complete browsing history.
 
-Changes to This Privacy Policy
+## How telemetry is used
 
-We may occasionally update this Privacy Policy. Any changes will be reflected here with an updated effective date. Users are encouraged to review this policy periodically.
+Telemetry is used only to measure feature adoption, maintain and improve the extension, and diagnose reliability problems. It is not used for advertising, user profiling, credit decisions, or sale to third parties.
 
-Contact
+## Storage, retention, and access
 
-If you have questions or concerns about this Privacy Policy, please contact us at:
+Telemetry is stored on systems operated by or on behalf of Sony Interactive Entertainment. It is retained only for as long as reasonably necessary for the operational and improvement purposes described above, in accordance with applicable Sony Interactive Entertainment retention and security requirements.
 
-d4nnykidd+sie@gmail.com
+Access is restricted to authorised personnel who require it to operate, maintain, secure, or improve the extension and its logging service. Telemetry is not shared with advertisers or data brokers. It may be disclosed to service providers acting on behalf of Sony Interactive Entertainment, or where disclosure is required by law.
 
-Thank you for using our Extension
+## Security
+
+Telemetry is transmitted over HTTPS. Reasonable administrative and technical safeguards are used to protect it against unauthorised access, disclosure, alteration, or loss.
+
+## User choice
+
+Users who do not want the extension to transmit this telemetry should not install or use the extension. Uninstalling the extension stops future telemetry collection.
+
+## Chrome Web Store Limited Use
+
+The extension's use of information complies with the Chrome Web Store User Data Policy, including the Limited Use requirements.
+
+## Changes
+
+This policy may be updated when the extension's features or data practices change. Material changes will be prominently disclosed as required, and the effective date above will be updated.
+
+## Contact
+
+Questions or concerns about this policy may be sent to d4nnykidd+sie@gmail.com.
